@@ -19,23 +19,26 @@
         <mxCell id="vnAEvepF9uqeiBVWR-y5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-3" target="vnAEvepF9uqeiBVWR-y5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vnAEvepF9uqeiBVWR-y5-3" value="가스" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-3" value="가스[1]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vnAEvepF9uqeiBVWR-y5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-4" target="vnAEvepF9uqeiBVWR-y5-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vnAEvepF9uqeiBVWR-y5-4" value="가스" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-4" value="가스[2]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vnAEvepF9uqeiBVWR-y5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-5" target="vnAEvepF9uqeiBVWR-y5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vnAEvepF9uqeiBVWR-y5-5" value="사신,궤도&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%EA%B0%80%EC%8A%A4%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22210%22%20y%3D%22300%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="435" width="120" height="60" as="geometry" />
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-5" target="vnAEvepF9uqeiBVWR-y5-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vnAEvepF9uqeiBVWR-y5-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="540" width="120" height="60" as="geometry" />
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-5" value="사신,궤도&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%EA%B0%80%EC%8A%A4%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22210%22%20y%3D%22300%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-6" value="보급고[2]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vnAEvepF9uqeiBVWR-y5-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-35" target="vnAEvepF9uqeiBVWR-y5-38">
           <mxGeometry relative="1" as="geometry" />
@@ -49,8 +52,11 @@
         <mxCell id="vnAEvepF9uqeiBVWR-y5-37" value="보급고로 가둠" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="470" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-38" target="vnAEvepF9uqeiBVWR-y5-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vnAEvepF9uqeiBVWR-y5-38" value="못가둠" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="1470" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vnAEvepF9uqeiBVWR-y5-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.57;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-35" target="vnAEvepF9uqeiBVWR-y5-37">
           <mxGeometry relative="1" as="geometry" />
@@ -64,11 +70,52 @@
         <mxCell id="vnAEvepF9uqeiBVWR-y5-41" value="탐사정에 귀환을 썼는가" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="600" width="120" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-42" target="vnAEvepF9uqeiBVWR-y5-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vnAEvepF9uqeiBVWR-y5-42" value="씀" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="730" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-43" target="vnAEvepF9uqeiBVWR-y5-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vnAEvepF9uqeiBVWR-y5-43" value="안 씀" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="780" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-52" value="사신으로잡고달림" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="432.5" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-53" value="사신 바로 상대 앞마당으로 달림" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-54" value="사신 바로 상대 앞마당으로 달림" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-64" value="탐사정에 귀환을 썼는가" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="920" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-68" value="------long-----&#xa;King&#39;s Cove LE: 40&#xa;Neon Violet Square LE: 39&#xa;Amygdala: 37&#xa;------mid-----&#xa;Frontline LE: 35&#xa;Whispers of Gold: 34&#xa;Ley Lines: 34&#xa;------short-----&#xa;Abyssal Reef LE: 33&#xa;Ultralove: 33&#xa;El Dordo: 32" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="880" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-69" target="vnAEvepF9uqeiBVWR-y5-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-69" value="러쉬거리가 긴 맵인가" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="920" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-70" value="중간~짧" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-71" value="김" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vnAEvepF9uqeiBVWR-y5-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.579;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vnAEvepF9uqeiBVWR-y5-69" target="vnAEvepF9uqeiBVWR-y5-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
